@@ -9,3 +9,4 @@ docs/_build
 
 # logs
 *.log
+.venv*
